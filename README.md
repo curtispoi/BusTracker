@@ -16,3 +16,6 @@ download repository and open index.html in your browser
 Roadmap of future improvements:
  Additional routes
  Forecast arrivals
+ 
+ license information:
+MIT license.
